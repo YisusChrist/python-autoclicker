@@ -2,7 +2,6 @@
 name = "python_autoclicker"
 version = "0.1.0"
 description = ""
-license = "GPL-3.0-only"
 authors = [
   { name = "isaychris" },
   { name = "YisusChrist", email = "agelrenorenardo@gmail.com" },
